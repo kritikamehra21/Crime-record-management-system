@@ -1,0 +1,10 @@
+===== Crime Record Management System =====
+1. File Complaint
+2. View All Complaints
+3. Search Complaint by ID
+4. Update Status
+5. Exit
+Choice: 1
+Enter name: Kritika
+Enter crime type: Theft
+✅ Complaint filed successfully! ID: 1
